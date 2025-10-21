@@ -1,1 +1,1 @@
-# LinkUp
+https://github.com/js65y8wcgb-byte/LinkUp.git
